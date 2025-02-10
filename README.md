@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LDiekena
+- 👋 Hi, I’m Lara Diekena
 - 👀 I’m interested in GitHub Education!
 <!---
 LDiekena/LDiekena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
